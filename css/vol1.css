@@ -1,0 +1,31 @@
+body {
+	background: #1F5984;
+}
+
+div.songbook-play-button a.play {
+	color: #1F5984;
+}
+
+div.songbook-play-button a.play span.symbol {
+	border-color: transparent transparent transparent #1F5984;
+}
+
+div.book-footer {
+	background: #1F5984;
+}
+
+ul.songbook-music-part-list li.selected {
+	color: #1F5984;
+}
+
+div.samba7-menu {
+	background: rgba(22,62,92, 0.9);
+}
+
+div.window-title-bar {
+	background-color: #163E5C !important;
+}
+
+div.book-contents div.book-logo {
+	width: 427px;
+}
